@@ -10,11 +10,11 @@ Make a distributed social network!
 Contributing
 ============
 ## Team Members:
-    Rachel Rasoulpour
-    Ahnaf Tajwar Rafid
     Deepak Paudel
     Ishaan Rehmani
     Marzia Binte Momin
+    Rachel Rasoulpour
+    Ahnaf Tajwar Rafid
 
 Connected Teams
 ============
