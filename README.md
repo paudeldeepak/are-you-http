@@ -3,6 +3,8 @@ project-socialdistribution
 
 project-socialdistribution
 
+Project video: https://www.youtube.com/watch?v=tsdr-59eUc8
+
 Make a distributed social network!
 
 Contributing
