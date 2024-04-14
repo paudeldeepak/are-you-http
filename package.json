@@ -1,0 +1,12 @@
+{
+  "name": "w24-project-are-you-http",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "python backend/manage.py runserver",
+    "build": "cd frontend && npm install && npm run build",
+    "postinstall": "npm run build"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
