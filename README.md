@@ -1,9 +1,7 @@
-CMPUT404-project-socialdistribution
+project-socialdistribution
 ===================================
 
-CMPUT404-project-socialdistribution
-
-See [the web page](https://uofa-cmput404.github.io/general/project.html) for a description of the project.
+project-socialdistribution
 
 Make a distributed social network!
 
